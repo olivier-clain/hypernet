@@ -1,2 +1,0 @@
-# hypernet
-hypernet project
